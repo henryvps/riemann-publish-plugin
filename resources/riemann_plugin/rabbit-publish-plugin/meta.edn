@@ -1,0 +1,5 @@
+{
+ :plugin "rabbit-publish-plugin"
+ :require rabbit.core
+ :title "This plugin enables Riemann to post alerts to RabbitMQ"
+}
